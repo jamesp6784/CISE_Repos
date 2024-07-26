@@ -1,0 +1,3 @@
+# Not included when using --skip-git, so added manually
+node_modules
+dist
